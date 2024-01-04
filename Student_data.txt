@@ -1,0 +1,19 @@
+Student Id, Name, Grade
+
+1, Khyati Choubey, A
+
+2, Akshay Jha, A+
+
+3, Om Chaturvedi, B
+
+4, Swati Choubey, D
+
+5, Anurag Tripathi, C
+
+6, Pratibha Choubey, A+
+
+7, Ajay Kumar Choubey, A
+
+8, Bilash Choubey, B
+
+9, Ankit Jha, B

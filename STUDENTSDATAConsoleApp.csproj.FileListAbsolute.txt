@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\simplilearn\STUDENTSDATAConsoleApp\STUDENTSDATAConsoleApp\bin\Debug\STUDENTSDATAConsoleApp.exe.config
+C:\Users\USER\Desktop\simplilearn\STUDENTSDATAConsoleApp\STUDENTSDATAConsoleApp\bin\Debug\STUDENTSDATAConsoleApp.exe
+C:\Users\USER\Desktop\simplilearn\STUDENTSDATAConsoleApp\STUDENTSDATAConsoleApp\bin\Debug\STUDENTSDATAConsoleApp.pdb
+C:\Users\USER\Desktop\simplilearn\STUDENTSDATAConsoleApp\STUDENTSDATAConsoleApp\obj\Debug\STUDENTSDATAConsoleApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\simplilearn\STUDENTSDATAConsoleApp\STUDENTSDATAConsoleApp\obj\Debug\STUDENTSDATAConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\simplilearn\STUDENTSDATAConsoleApp\STUDENTSDATAConsoleApp\obj\Debug\STUDENTSDATAConsoleApp.exe
+C:\Users\USER\Desktop\simplilearn\STUDENTSDATAConsoleApp\STUDENTSDATAConsoleApp\obj\Debug\STUDENTSDATAConsoleApp.pdb
